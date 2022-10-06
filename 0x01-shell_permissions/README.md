@@ -1,1 +1,1 @@
-This script prints all groups
+Change of file owner to betty
