@@ -1,1 +1,1 @@
-This repository contains solutions to shell basics
+Mode set for hello file
