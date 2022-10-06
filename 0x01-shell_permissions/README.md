@@ -1,1 +1,1 @@
-Change of file owner to betty
+An empty file
