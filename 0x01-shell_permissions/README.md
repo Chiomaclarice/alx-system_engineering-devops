@@ -1,1 +1,1 @@
-question of who i am
+This script prints all groups
