@@ -1,1 +1,1 @@
-This script is introducing betty
+question of who i am
