@@ -1,1 +1,1 @@
-Mirror permissions
+Mirror permission mode set
