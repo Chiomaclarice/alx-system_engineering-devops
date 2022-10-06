@@ -1,1 +1,1 @@
-Script for multiple permission
+Execution permission to everybody
