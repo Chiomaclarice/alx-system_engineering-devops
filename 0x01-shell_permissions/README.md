@@ -1,1 +1,1 @@
-solution to shell permissions 102
+solution to symbolic link
