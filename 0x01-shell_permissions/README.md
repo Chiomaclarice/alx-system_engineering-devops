@@ -1,1 +1,1 @@
-solution to symbolic link
+changed solution to owner and group
