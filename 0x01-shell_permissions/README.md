@@ -1,1 +1,1 @@
-Mirror permission mode set
+execute permission to all subdirectories
