@@ -1,1 +1,1 @@
-displaying lines in /etc/passwd
+printing letters only
