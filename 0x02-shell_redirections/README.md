@@ -1,1 +1,1 @@
-script that decodes acrostics
+parses web servers log into tsv
