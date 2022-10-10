@@ -1,1 +1,1 @@
-Display pattern containing root
+displaying lines in /etc/passwd
