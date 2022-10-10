@@ -1,1 +1,1 @@
-script finds all missing files and directory
+Listing all files with .gif
