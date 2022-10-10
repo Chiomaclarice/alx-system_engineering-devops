@@ -1,1 +1,1 @@
-script prints hello world
+script prints confused smiley
