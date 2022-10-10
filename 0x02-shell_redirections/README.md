@@ -1,1 +1,1 @@
-deletes regular files
+counts number of directories
