@@ -1,1 +1,1 @@
-displays all users and their home directory in sorted order
+script finds all missing files and directory
