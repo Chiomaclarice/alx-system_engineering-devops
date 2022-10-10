@@ -1,1 +1,1 @@
-Mode set for hello file
+Displays last lines
