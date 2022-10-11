@@ -1,0 +1,2 @@
+#!/bin/bash
+result=$((power/divide)) | echo result
