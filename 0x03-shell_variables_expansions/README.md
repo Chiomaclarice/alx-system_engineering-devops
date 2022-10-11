@@ -1,1 +1,1 @@
-new global variable
+testing true knowledge
