@@ -1,1 +1,1 @@
-Changing from decimal to hexadecimal
+Script encodes and decodes text usimg Ascii
