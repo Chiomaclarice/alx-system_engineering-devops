@@ -1,1 +1,1 @@
-added action to path
+new global variable
