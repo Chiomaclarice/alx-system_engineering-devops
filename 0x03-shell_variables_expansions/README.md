@@ -1,1 +1,1 @@
-Script encodes and decodes text usimg Ascii
+prints every other line
