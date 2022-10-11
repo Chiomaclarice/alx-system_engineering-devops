@@ -1,1 +1,1 @@
-script prints floats
+script creates alias
