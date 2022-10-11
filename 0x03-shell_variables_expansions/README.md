@@ -1,1 +1,1 @@
-testing true knowledge
+power and divide
