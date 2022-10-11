@@ -1,1 +1,1 @@
-Counting directories
+combining letters except oo
